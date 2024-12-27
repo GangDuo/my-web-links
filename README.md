@@ -5,7 +5,9 @@
 [DeepL](https://www.deepl.com/translator)
 
 ## 書式変換
-[transform](https://transform.tools/)
+
+- [transform](https://transform.tools/)
+- [ConvertCSV](https://www.convertcsv.com/)
 
 ## 開発ツール
 
@@ -20,6 +22,12 @@
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio/releases)
 - [SQLiteStudio](https://sqlitestudio.pl/)
 
+### テストデータ作成
+[個人情報テストデータジェネレーター](https://testdata.userlocal.jp/)
+
+### JavaScript
+[npm trends](https://npmtrends.com/)
+
 ## 公式ドキュメント
 ### Power Platform
 [Microsoft Power Fx](https://learn.microsoft.com/ja-jp/power-platform/power-fx/overview "公式ドキュメント")
@@ -31,3 +39,6 @@
 
 ## ネットワーク
 [グローバルIP address確認](http://www.showmyipaddress.com/)
+
+## コミュニケーション
+[Pointing Poker](https://www.pointingpoker.com/)
