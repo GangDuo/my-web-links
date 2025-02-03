@@ -9,7 +9,16 @@
 - [transform](https://transform.tools/)
 - [ConvertCSV](https://www.convertcsv.com/)
 
+## パワポ生成
+[パワポ生成AI](https://ai-tool.userlocal.jp/powerpoint_maker/)
+
+## Webデザイン
+[CSS Stock](https://pote-chil.com/css-stock/ja)
+
 ## 開発ツール
+
+### JSONエディタ
+[json Editor Online](https://jsoneditoronline.org/)
 
 ### リファクタリング
 [Haystack](https://haystackeditor.com/)
@@ -27,6 +36,12 @@
 
 ### JavaScript
 [npm trends](https://npmtrends.com/)
+
+### コンパイラ
+[Compiler Explorer](https://godbolt.org/)
+
+### テストSMTPサーバ
+[MailTrap](https://mailtrap.io/)
 
 ## 公式ドキュメント
 ### Power Platform
