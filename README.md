@@ -1,6 +1,12 @@
 # my-web-links
 お役立ちサイト
 
+## cybozu kintone
+[プラグイン・連携サービス](https://kintone-sol.cybozu.co.jp/integrate/search/)
+
+## 使い捨てメールアドレス
+[ワンタイムメール](https://www.onetime-mail.com/)
+
 ## 翻訳
 [DeepL](https://www.deepl.com/translator)
 
