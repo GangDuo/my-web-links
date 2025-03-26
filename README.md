@@ -1,8 +1,16 @@
 # my-web-links
 お役立ちサイト
 
+## AI
+- [Hugging Face](https://huggingface.co/)
+- [LangSmith](https://www.langchain.com/langsmith)
+
 ## cybozu kintone
-[プラグイン・連携サービス](https://kintone-sol.cybozu.co.jp/integrate/search/)
+- [プラグイン・連携サービス](https://kintone-sol.cybozu.co.jp/integrate/search/)
+- [kintone UI Component](https://ui-component.kintone.dev/ja/)
+- [kintone 開発Tips](https://cybozu.dev/ja/kintone/tips/development/)
+- [kintoneヘルプ](https://jp.cybozu.help/k/ja/)
+- [kintone資料・動画](https://kintone.cybozu.co.jp/material/)
 
 ## 使い捨てメールアドレス
 [ワンタイムメール](https://www.onetime-mail.com/)
@@ -16,7 +24,9 @@
 - [ConvertCSV](https://www.convertcsv.com/)
 
 ## パワポ生成
-[パワポ生成AI](https://ai-tool.userlocal.jp/powerpoint_maker/)
+
+- [デザインパターン](https://cone-c-slide.com/see-sla/blog/design-pattern/)
+- [パワポ生成AI](https://ai-tool.userlocal.jp/powerpoint_maker/)
 
 ## Webデザイン
 [CSS Stock](https://pote-chil.com/css-stock/ja)
@@ -63,3 +73,6 @@
 
 ## コミュニケーション
 [Pointing Poker](https://www.pointingpoker.com/)
+
+## Windows
+[開発者用ツール](https://learn.microsoft.com/ja-jp/windows/sudo/)
