@@ -33,6 +33,12 @@
 
 ## 開発ツール
 
+### 詰め合わせ
+[develop.tools](https://develop.tools/)
+
+### ダイアグラム作成
+[PlantText](https://www.planttext.com/)
+
 ### JSONエディタ
 [json Editor Online](https://jsoneditoronline.org/)
 
