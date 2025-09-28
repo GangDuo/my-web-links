@@ -82,3 +82,9 @@
 
 ## Windows
 [開発者用ツール](https://learn.microsoft.com/ja-jp/windows/sudo/)
+
+## デザイン
+
+[カラーピッカー](https://colorpicker.tools/ja/)
+
+[カラーコード変換ツール](https://tech-unlimited.com/color.html)
