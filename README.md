@@ -1,6 +1,9 @@
 # my-web-links
 お役立ちサイト
 
+## font
+- [Moralerspace](https://github.com/yuru7/moralerspace)
+
 ## AI
 - [Hugging Face](https://huggingface.co/)
 - [LangSmith](https://www.langchain.com/langsmith)
@@ -11,6 +14,7 @@
 - [kintone 開発Tips](https://cybozu.dev/ja/kintone/tips/development/)
 - [kintoneヘルプ](https://jp.cybozu.help/k/ja/)
 - [kintone資料・動画](https://kintone.cybozu.co.jp/material/)
+- [Crena Plugin](https://crena-shop.com/kintone/plugin/trial)
 
 ## 使い捨てメールアドレス
 [ワンタイムメール](https://www.onetime-mail.com/)
@@ -43,7 +47,7 @@
 [json Editor Online](https://jsoneditoronline.org/)
 
 ### リファクタリング
-[Haystack](https://haystackeditor.com/)
+[Haystack](https://github.com/haystackeditor/haystack-editor)
 
 ### Web IDE
 [CodeSandbox](https://codesandbox.io/ "CodeSandbox")
@@ -57,7 +61,8 @@
 [個人情報テストデータジェネレーター](https://testdata.userlocal.jp/)
 
 ### JavaScript
-[npm trends](https://npmtrends.com/)
+- [npm trends](https://npmtrends.com/)
+- [Jspreadsheet ](https://bossanova.uk/jspreadsheet/)
 
 ### コンパイラ
 [Compiler Explorer](https://godbolt.org/)
