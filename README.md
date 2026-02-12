@@ -15,6 +15,7 @@
 - [kintoneヘルプ](https://jp.cybozu.help/k/ja/)
 - [kintone資料・動画](https://kintone.cybozu.co.jp/material/)
 - [Crena Plugin](https://crena-shop.com/kintone/plugin/trial)
+- [無料アイコン](https://icone.unique-work.com/)
 
 ## 使い捨てメールアドレス
 [ワンタイムメール](https://www.onetime-mail.com/)
