@@ -7,6 +7,7 @@
 ## AI
 - [Hugging Face](https://huggingface.co/)
 - [LangSmith](https://www.langchain.com/langsmith)
+- [Can I run AI locally](https://www.canirun.ai/)
 
 ## cybozu kintone
 - [プラグイン・連携サービス](https://kintone-sol.cybozu.co.jp/integrate/search/)
@@ -39,7 +40,9 @@
 ## 開発ツール
 
 ### 詰め合わせ
-[develop.tools](https://develop.tools/)
+- [develop.tools](https://develop.tools/)
+- [devtoolkits.app](https://devtoolkits.app/ja/#tools)
+
 
 ### ダイアグラム作成
 [PlantText](https://www.planttext.com/)
@@ -94,3 +97,14 @@
 [カラーピッカー](https://colorpicker.tools/ja/)
 
 [カラーコード変換ツール](https://tech-unlimited.com/color.html)
+
+[PDF編集](https://pdf-marin.github.io/)
+
+[カラーパレット](https://colorpalette.pro/)
+
+[モダンCSS](https://www.alwaystwisted.com/relicss/)
+
+[No-JS](https://aarontgrogg.github.io/NoLoJS/)
+
+[What’s this UI element called](https://namethatui.com/)
+
